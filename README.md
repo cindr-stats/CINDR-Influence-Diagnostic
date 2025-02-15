@@ -8,14 +8,14 @@ Github repository containing relevant R code, simulations, and other key informa
 
 ## Overview
 
-**CINDR** (Calibrated Influential Nonlinear Dimension Reduction) is an R package designed to provide diagnostic tools for detecting influential observations in nonlinear dimension reduction models. It enables robust and calibrated assessments to ensure the reliability of multivariate data analysis.
+**CINDR** (Calibrated Influential Nonlinear Dimension Reduction) is an R package designed to provide diagnostic tools for detecting influential observations in nonlinear dimension reduction models. It enables robust and calibrated tools to detect influential observations that impact the efficacy of multivariate mapping methods.
 
 ## Features
 
-- **Influence Diagnostics** for nonlinear dimension reduction methods.
+- **Influence Diagnostics** for multivariate mapping methods, such as Classical MDS, Sammon Mapping, and isoMDS.
 - **Calibration Techniques** to enhance diagnostic accuracy.
-- **Visualization Tools** for assessing influential observations.
-- **Flexible API** compatible with popular dimension reduction methods.
+- **Simulation Study Code** overviewed in the related manuscript.
+
 
 ## Installation
 
